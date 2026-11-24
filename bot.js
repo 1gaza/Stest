@@ -15,11 +15,11 @@ const fs = require('fs');
 const https = require('https');
 
 // 🔴 ضع التوكن الخاص ببوت التليجرام هنا
-const TOKEN = '9295081176:AAFbN9pS4iwK3r5TtjMhiB0xQJiJEOlGjrI';
+const TOKEN = '9202054218:AAHs175-2RTiobQNIa99rhUijoCbBXu66CM';
 
 // 🔴 الأيدي المسموح لهم باستخدام البوت
 const ALLOWED_IDS = [
-    8423309136, // حسابك الأساسي
+    7251692734, // حسابك الأساسي
     1234567890  // 👈 استبدل هذا الرقم بحساب الشخص الثاني
 ];
 
